@@ -1,0 +1,36 @@
+# OS / System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs & temp files
+*.log
+*.tmp
+*.bak
+*.orig
+
+# MySQL dump files (avoid committing raw dumps)
+*.sql.gz
+*.dump
+
+# Python (if any scripts added later)
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node (if any tooling added later)
+node_modules/
