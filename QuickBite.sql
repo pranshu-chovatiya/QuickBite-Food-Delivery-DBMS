@@ -10,8 +10,8 @@
 --  CREATE & SELECT DATABASE
 -- ============================================================
 
-CREATE DATABASE IF NOT EXISTS QuackBit;
-USE QuackBit;
+CREATE DATABASE IF NOT EXISTS QuickBite;
+USE QuickBite;
 
 
 -- ============================================================
